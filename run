@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gcc -Wall MergeSort.c -o MergeSort
+
+./MergeSort
