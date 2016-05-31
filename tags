@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+FreeSet	MergeSort.c	/^void FreeSet(Set *set) {$/;"	f
+IsSorted	MergeSort.c	/^int IsSorted(Set *set) {$/;"	f
+Merge	MergeSort.c	/^Set *Merge(Set *leftSet, Set *rightSet) {$/;"	f
+MergeSort	MergeSort.c	/^Set *MergeSort(Set *set) {$/;"	f
+NXT_ELM_A	MergeSort.c	6;"	d	file:
+NXT_ELM_B	MergeSort.c	7;"	d	file:
+NewRandomSet	MergeSort.c	/^Set *NewRandomSet(int size) { $/;"	f
+NewSet	MergeSort.c	/^Set *NewSet(int size) { $/;"	f
+Partition	MergeSort.c	/^Set *Partition(Set *set, int start, int end) {$/;"	f
+PrintState	MergeSort.c	/^void PrintState(char *name, Set *set) {$/;"	f
+SWAP_ELEMS	MergeSort.c	8;"	d	file:
+Set	MergeSort.c	/^} Set;$/;"	t	typeref:struct:__anon1	file:
+debug	MergeSort.c	15;"	d	file:
+debug	MergeSort.c	17;"	d	file:
+elems	MergeSort.c	/^   int *elems;$/;"	m	struct:__anon1	file:
+main	MergeSort.c	/^int main(int argc, char *argv[]) {$/;"	f
+size	MergeSort.c	/^   int size;$/;"	m	struct:__anon1	file:
